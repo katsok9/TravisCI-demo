@@ -1,6 +1,4 @@
-<a target="blank" href="https://travis-ci.org/nirgeier/DevOps">
-  <img src="https://api.travis-ci.org/nirgeier/DevOps.svg?branch=master">
-</a>  
+[![Build Status](https://travis-ci.org/katsok9/TravisCI-demo.svg?branch=newBranch)](https://travis-ci.org/katsok9/TravisCI-demo)
 
 ----
 katsok
