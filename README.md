@@ -1,5 +1,5 @@
-<a target="blank" href="https://travis-ci.org/nirgeier/DevOps">
-  <img src="https://api.travis-ci.org/nirgeier/DevOps.svg?branch=master">
+<a target="blank" href="https://travis-ci.org/katsok9/TravisCI-demo">
+  <img src="https://api.travis-ci.orgkatsok9/TravisCI-demo.svg?branch=master">
 </a>  
 
 ----
