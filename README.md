@@ -1,6 +1,4 @@
-<a target="blank" href="https://travis-ci.org/katsok9/TravisCI-demo">
-  <img src="https://api.travis-ci.orgkatsok9/TravisCI-demo.svg?branch=master">
-</a>  
+[![Build Status](https://travis-ci.org/katsok9/TravisCI-demo.svg?branch=newBranch)](https://travis-ci.org/katsok9/TravisCI-demo)
 
 ----
 katsok
